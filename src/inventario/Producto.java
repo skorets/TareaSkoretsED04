@@ -1,4 +1,4 @@
-package app;
+package inventario;
 
 public class Producto {
     public String n;
